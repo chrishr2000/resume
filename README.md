@@ -31,7 +31,7 @@ Banerjee
 
 <div class="col-sm-6 col-md-12 col-lg-12">
 
-<div id="links">[](https://github.com/dwaiba "Github")[](http://twitter.com/cloudgeario "Twitter")[](https://nl.linkedin.com/in/dbanerj "Linkedin")
+<div id="links">[Github](https://github.com/chrishr2000 "Github") [Twitter](http://twitter.com/cloudgeario "Twitter") [LinkedIn](https://nl.linkedin.com/in/dbanerj "Linkedin")
 
 [dbanerj@gmail.com](mailto:dbanerj@gmail.com)[
 ](http://www.cloudgear.io)</div>
